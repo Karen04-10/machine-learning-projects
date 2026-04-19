@@ -4,15 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68370fa3-748c-4b17-8070-6f85ac9f0fa5" name="Changes" comment="" />
+    <list default="true" id="68370fa3-748c-4b17-8070-6f85ac9f0fa5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../classification/FraudDetection/fraud_detection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../classification/FraudDetection/fraud_detection.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/car_price.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/car_price.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="3CJ7bVwyLgRDaEyG1lStkypTOya" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -21,7 +27,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SharedIndexes">
