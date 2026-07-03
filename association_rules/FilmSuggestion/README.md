@@ -1,7 +1,7 @@
 # Movie Recommendation System
 
 ## Project Type
-Association Rule Mining (Apriori Algorithm)
+Association Rule Learning (Apriori Algorithm)
 
 ## Description
 Recommends movies based on user’s watched genres using Apriori association rules.
@@ -12,7 +12,7 @@ MovieLens dataset with movie titles, genres, and release info
 ## Skills & Tools
 - Python (Pandas, NumPy)
 - apyori (Apriori Algorithm)
-- Association rule mining, recommendation system logic
+- Association rule learning, recommendation system logic
 
 ## How to Run
 1. Run `Movie_rec.ipynb`

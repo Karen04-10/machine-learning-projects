@@ -1,7 +1,7 @@
 # Market Basket Analysis
 
 ## Project Type
-Association Rule Mining (Apriori)
+Association Rule Learning (Apriori)
 
 ## Description
 Analyzes transactional data to find association rules between products.
@@ -14,7 +14,7 @@ Data source: Data.csv
 ## Skills & Tools
 - Python (Pandas, NumPy)
 - apyori (Apriori Algorithm)
-- Association rule mining, Lift/Confidence analysis
+- Association rule learning, Lift/Confidence analysis
 
 ## How to Run
 1. Run `market.ipynb`
